@@ -1,4 +1,4 @@
-# Курс Fullstack-разработчик на Python <br>
+# I. Курс "Fullstack-разработчик на Python" <br>
 ## 1. Основы языка программирования Python <a href="https://github.com/RavenRVS/certificates/blob/main/certificate_python_begginer.pdf">(сертификат) </a> <br>
 1.1. <a href="https://github.com/RavenRVS/HW_Functions.git">Функции - использование встроенных и создание собственных </a> <br>
 1.2. <a href="https://github.com/RavenRVS/HW_Object_and_classes.git">ООП: наследование, инкапсуляция и полиморфизм </a> <br>
@@ -22,4 +22,13 @@
 
 
 
-
+# II. Курс "Инженер по тестированию" <br>
+## 1. Введение в JAVA <a href="https://github.com/RavenRVS/certificates/blob/main/certificate_java_begginer.pdf">(сертификат) </a> <br>
+1.1. <a href="https://github.com/RavenRVS/QA_Java_HW1.git">Введение в Java: JDK, JRE, JVM, IntelliJ IDEA</a> <br>
+1.2. <a href="https://github.com/RavenRVS/QA_Java_HW2.git">Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений</a> <br>
+1.3. <a href="https://github.com/RavenRVS/QAI_HW3.git">Testability, авто-тесты, введение в ООП: объекты и методы</a> <br>
+1.4. <a href="https://github.com/RavenRVS/QAI_HW4.git">Система сборки Maven, управление зависимостями, авто-тесты на JUnit5</a> <br>
+1.5. <a href="https://github.com/RavenRVS/QAI_HW5_T1.git">Пакеты и циклы</a> <br>
+1.6. <a href="https://github.com/RavenRVS/QAI_HW6_T1.git">Строки и массивы</a> <br>
+1.7. <a href="https://github.com/RavenRVS/QAI_HW7_T1.git">Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs</a> <br>
+1.8. <a href="https://github.com/RavenRVS/QAI_HW8_T1.git">Объектно-ориентированное программирование: ключевые принципы</a> <br>
