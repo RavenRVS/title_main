@@ -17,7 +17,7 @@
 3.4. <a href="https://github.com/RavenRVS/ADPY_HW4.git">Итераторы, генераторы </a> <br>
 3.5. <a href="https://github.com/RavenRVS/ADPY_HW5.git">Декораторы </a> <br>
 3.6. <a href="https://github.com/RavenRVS/ADPY_HW6.git">Разработка тестов </a> <br>
-3.7. <a href="https://github.com/Dimafdr/adpy-team-diplom">Курсовой проект "Разработка бота для VK" </a> <br>
+3.7. <a href="https://github.com/RavenRVS/ADPY_team_project">Курсовой проект "Разработка бота для VK" </a> <br>
 ## 4. Django: создание функциональных веб-приложений (на изучении) <br>
 
 
