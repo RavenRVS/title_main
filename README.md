@@ -32,3 +32,12 @@
 1.6. <a href="https://github.com/RavenRVS/QAI_HW6_T1.git">Строки и массивы</a> <br>
 1.7. <a href="https://github.com/RavenRVS/QAI_HW7_T1.git">Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs</a> <br>
 1.8. <a href="https://github.com/RavenRVS/QAI_HW8_T1.git">Объектно-ориентированное программирование: ключевые принципы</a> <br>
+1.9. <a href="https://github.com/RavenRVS/QAI_HW9_T1.git">Объектно-ориентированное программирование и проектирование</a> <br>
+1.10. <a href="https://github.com/RavenRVS/QAI_HW10.git">Объекты с внутренним состоянием, управление состоянием при тестировании</a> <br>
+1.11. <a href="https://github.com/RavenRVS/QAI_HW11_T1.git">Композиция и зависимость объектов. Mockito при создании авто-тестов</a> <br>
+1.12. <a href="https://github.com/RavenRVS/QAI_HW12_T1.git">Наследование и расширяемость систем. Проблемы наследования</a> <br>
+1.13. <a href="https://github.com/RavenRVS/QAI_HW13_T1.git">Исключительные ситуации и их обработка. Тестирование исключений</a> <br>
+1.14. <a href="https://github.com/RavenRVS/QAI_HW14_T1.git">Интерфейсы для организации малой связности. Обобщённое программирование (Generics)</a> <br>
+1.15. <a href="https://github.com/RavenRVS/QAI_HW15_T1.git">Collections Framework. CRUD и тестирование систем, управляющих набором объектов</a> <br>
+1.16. <a href="https://github.com/RavenRVS/QAI_team_diplom">Курсовой проект по блоку</a> <br>
+## 2. Автоматизированное тестирование (на изучении) <br>
