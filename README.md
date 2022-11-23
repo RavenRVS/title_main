@@ -19,6 +19,8 @@
 3.6. <a href="https://github.com/RavenRVS/ADPY_HW6.git">Разработка тестов </a> <br>
 3.7. <a href="https://github.com/RavenRVS/ADPY_team_project">Курсовой проект "Разработка бота для VK" </a> <br>
 ## 4. Django: создание функциональных веб-приложений (на изучении) <br>
+4.1. <a href="https://github.com/RavenRVS/DJ_HW1">Знакомство с Django. Подготовка и запуск проекта </a> <br>
+4.2. <a href="https://github.com/RavenRVS/DJ_HW2">Обработка запросов и шаблоны </a> <br>
 
 
 
