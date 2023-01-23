@@ -18,10 +18,26 @@
 3.5. <a href="https://github.com/RavenRVS/ADPY_HW5.git">Декораторы </a> <br>
 3.6. <a href="https://github.com/RavenRVS/ADPY_HW6.git">Разработка тестов </a> <br>
 3.7. <a href="https://github.com/RavenRVS/ADPY_team_project">Курсовой проект "Разработка бота для VK" </a> <br>
-## 4. Django: создание функциональных веб-приложений (на изучении) <br>
+## 4. Django: создание функциональных веб-приложений <a href="https://github.com/RavenRVS/certificates/blob/main/certificate_django.pdf">(сертификат)</a> <br>
 4.1. <a href="https://github.com/RavenRVS/DJ_HW1">Знакомство с Django. Подготовка и запуск проекта </a> <br>
 4.2. <a href="https://github.com/RavenRVS/DJ_HW2">Обработка запросов и шаблоны </a> <br>
-
+4.3. <a href="https://github.com/RavenRVS/DJ_HW3">Работа с ORM</a> <br>
+4.4. <a href="https://github.com/RavenRVS/DJ_HW5">Знакомство с API на примере Django REST framework</a> <br>
+4.5. <a href="https://github.com/RavenRVS/DJ_HW6">CRUD в DRF</a> <br>
+4.6. <a href="https://github.com/RavenRVS/DJ_HW7">Разделение доступа в DRF</a> <br>
+4.7. <a href="https://github.com/RavenRVS/DJ_HW8">Тестирование Django-приложений с использованием Pytest</a> <br>
+## 5. HTML и CSS: основы веб-верстки (на изучении) <br>
+5.1. <a href="https://github.com/RavenRVS/FPYMQ_HW1">Введение в вёрстку</a> <br>
+5.2. <a href="https://github.com/RavenRVS/FPYMQ_HW2">Контентные теги</a> <br>
+5.3. <a href="https://github.com/RavenRVS/FPYMQ_HW3">Теги для вёрстки структуры контента</a> <br>
+5.4. <a href="https://github.com/RavenRVS/FPYMQ_HW4">Позиционирование блочных элементов</a> <br>
+5.5. <a href="https://github.com/RavenRVS/FPYMQ_HW5">Вёрстка форм. Нестандартные элементы форм</a> <br>
+5.6. <a href="https://github.com/RavenRVS/FPYMQ_HW6">Всплывающие элементы. Позиционирование flex-элементов</a> <br>
+5.7. <a href="https://github.com/RavenRVS/FPYMQ_HW7">Верстка резинового макета</a> <br>
+5.8. <a href="https://github.com/RavenRVS/FPYMQ_HW8">Введение в медиа-запросы</a> <br>
+5.9. <a href="https://github.com/RavenRVS/FPYMQ_HW9">Медиа-функции</a> <br>
+5.10. <a href="https://github.com/RavenRVS/FPYMQ_HW10">Верстка адаптивного макета</a> <br>
+5.11. <a href="https://github.com/RavenRVS/FPYMQ_HW11">Breakpoints</a> <br>
 
 
 # II. Курс "Инженер по тестированию" <br>
